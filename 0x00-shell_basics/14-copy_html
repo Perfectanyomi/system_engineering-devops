@@ -1,2 +1,2 @@
 #!/bin/bash
-cp /etc/passwd ./my_passwd
+cp -u *.html ..
