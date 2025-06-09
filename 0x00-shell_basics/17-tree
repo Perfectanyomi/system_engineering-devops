@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -p /tmp/welcome/d1 /tmp/welcome/d2 /tmp/welcome/d3
